@@ -19,7 +19,6 @@ const history = syncHistoryWithStore(createBrowserHistory(), store);
 // must be imported into the project at least once
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'normalize.css';
-import 'src/styles/global.scss';
 
 
 ReactDOM.render(
